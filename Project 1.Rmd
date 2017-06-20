@@ -2,7 +2,9 @@
 title: "Reproducible Research Assignment 1"
 author: "Micky Chi"
 date: "18 June, 2017"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ##SECTION 1: Calculating and plotting the mean of the total number of steps per day
